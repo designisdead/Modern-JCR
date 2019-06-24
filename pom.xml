@@ -35,6 +35,14 @@
         <url>https://github.com/designisdead/Modern-JCR/tree/master</url>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>bintray-designisdead-Modern-JCR</id>
+            <name>designisdead-Modern-JCR</name>
+            <url>https://api.bintray.com/maven/designisdead/Modern-JCR/Modern-JCR/;publish=1</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <java.version>8</java.version>
         <junit.version>5.4.2</junit.version>

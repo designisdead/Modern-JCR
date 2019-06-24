@@ -20,7 +20,7 @@ This library requires Java 8 or up.
 1. Add dependency to your project (For example maven:)
 ```
 <dependency>
-    <groupId>com.designisdead.zwaldeck</groupId>
+    <groupId>com.designisdead</groupId>
     <artifactId>modernjcr</artifactId>
     <version>1.0.0</version>
 </dependency>
