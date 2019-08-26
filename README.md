@@ -21,7 +21,7 @@ This library requires Java 8 or up.
 ```
 <dependency>
     <groupId>com.designisdead</groupId>
-    <artifactId>modernjcr</artifactId>
+    <artifactId>modern-jcr</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
