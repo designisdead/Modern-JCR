@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/designisdead/Modern-JCR.svg?branch=master)](https://travis-ci.org/zwaldeck/modern-jcr)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2053f6a7c6ee4583940ee68d1bc7ddd5)](https://www.codacy.com/app/designisdead/Modern-JCR?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=designisdead/Modern-JCR&amp;utm_campaign=Badge_Grade)
 [![Coverage Status](https://coveralls.io/repos/github/designisdead/Modern-JCR/badge.svg?branch=master)](https://coveralls.io/github/designisdead/Modern-JCR?branch=master)
+[![javadoc](https://javadoc.io/badge2/com.designisdead/modern-jcr/javadoc.svg)](https://javadoc.io/doc/com.designisdead/modern-jcr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -36,4 +37,4 @@ ModernJcr.asStream(rootNode.getNodes())
 
 ## Resources
 
-- Javadoc:
+- Javadoc: https://javadoc.io/doc/com.designisdead/modern-jcr
